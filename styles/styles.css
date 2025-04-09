@@ -14,10 +14,10 @@
   /* colors */
   --background-color: white;
   --light-color: #f8f8f8;
-  --dark-color: #505050;
+  --dark-color: #005b60;
   --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --link-color: #008c80;
+  --link-hover-color: #ffcd05;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
